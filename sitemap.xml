@@ -1,38 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sf-t3-1779642675702-218.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sf-t3-1779642675702-218.vercel.app/about.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/about.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sf-t3-1779642675702-218.vercel.app/blog.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/blog.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sf-t3-1779642675702-218.vercel.app/posts/field_note-002-7d57b8.html</loc>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/posts/field_note-001-tmcbo2.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/posts/field_note-002-7d57b8.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sf-t3-1779642675702-218.vercel.app/posts/review-001-7d57b8.html</loc>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/posts/guide-002-tmcbo2.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/posts/review-001-7d57b8.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sf-t3-1779642675702-218.vercel.app/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642675702-218/feed.xml</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
